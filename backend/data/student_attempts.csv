@@ -1,0 +1,1001 @@
+student_id,exercise_id,topic,attempt_number,previous_errors,syntax_error,test_pass_rate,execution_time,error_type,is_correct
+STU068,EX008,Conditional Statements,3,2,0,0.14,0.312,Incorrect Output,0
+STU026,EX002,Lists,9,2,0,0.97,0.018,No Error,1
+STU074,EX003,Variables,2,2,0,0.9,0.268,No Error,1
+STU097,EX027,Functions,3,2,0,0.85,0.287,No Error,1
+STU042,EX024,Conditional Statements,10,2,0,0.85,0.184,No Error,1
+STU039,EX006,Lists,8,6,0,0.82,0.099,No Error,1
+STU055,EX022,Strings,5,5,0,0.94,0.07,No Error,1
+STU045,EX012,Strings,3,6,0,0.88,0.078,No Error,1
+STU021,EX003,Loops,1,4,0,0.45,1.466,Loop Logic Error,0
+STU080,EX002,Variables,10,1,0,0.21,1.381,Incorrect Output,0
+STU015,EX005,Conditional Statements,1,5,0,0.85,0.275,No Error,1
+STU091,EX028,Conditional Statements,3,3,0,0.03,0.159,Incorrect Condition,0
+STU002,EX017,Functions,8,2,0,0.94,0.219,No Error,1
+STU061,EX025,Lists,10,0,1,0.21,0.139,Syntax Error,0
+STU055,EX020,Conditional Statements,3,6,0,0.45,1.159,Incorrect Output,0
+STU019,EX001,Lists,8,6,0,0.88,0.184,No Error,1
+STU005,EX011,Conditional Statements,5,3,0,0.86,0.071,No Error,1
+STU046,EX003,Loops,7,1,1,0.64,0.122,Syntax Error,0
+STU044,EX019,Lists,5,2,0,0.85,0.04,No Error,1
+STU074,EX013,Functions,10,0,0,0.85,0.168,No Error,1
+STU010,EX004,Lists,1,3,0,0.59,1.235,Variable Misuse,0
+STU011,EX002,Variables,6,2,0,0.81,0.193,No Error,1
+STU017,EX022,Strings,10,2,0,0.9,0.126,No Error,1
+STU078,EX005,Lists,3,0,0,0.94,0.162,No Error,1
+STU020,EX007,Loops,5,3,0,0.93,0.164,No Error,1
+STU075,EX021,Functions,9,3,0,0.59,1.394,Incorrect Output,0
+STU078,EX005,Loops,2,4,0,0.91,0.07,No Error,1
+STU042,EX015,Strings,8,0,0,0.64,0.928,Incorrect Condition,0
+STU077,EX001,Variables,3,4,0,0.19,0.703,Incorrect Condition,0
+STU081,EX026,Variables,1,3,0,0.48,0.897,Incorrect Output,0
+STU010,EX024,Conditional Statements,9,1,0,0.91,0.11,No Error,1
+STU007,EX015,Variables,10,0,0,0.96,0.212,No Error,1
+STU090,EX026,Variables,9,1,0,0.07,0.751,Variable Misuse,0
+STU028,EX022,Variables,9,1,0,0.59,0.23,Incorrect Output,0
+STU073,EX010,Functions,5,3,0,0.81,0.055,No Error,1
+STU097,EX010,Loops,2,5,0,0.97,0.252,No Error,1
+STU036,EX012,Loops,3,1,0,0.05,1.121,Incorrect Output,0
+STU001,EX018,Strings,1,7,0,0.82,0.225,No Error,1
+STU013,EX019,Functions,9,0,0,0.95,0.253,No Error,1
+STU006,EX009,Conditional Statements,3,4,0,0.97,0.245,No Error,1
+STU011,EX015,Lists,8,5,0,0.9,0.141,No Error,1
+STU071,EX009,Functions,9,2,0,0.84,0.04,No Error,1
+STU009,EX012,Strings,10,2,0,1.0,0.237,No Error,1
+STU081,EX028,Strings,6,4,0,0.49,0.646,Incorrect Output,0
+STU057,EX012,Functions,10,1,0,0.42,1.078,Loop Logic Error,0
+STU015,EX021,Functions,3,6,1,0.24,0.885,Syntax Error,0
+STU089,EX029,Variables,6,4,0,0.85,0.213,No Error,1
+STU008,EX018,Variables,1,0,0,0.89,0.164,No Error,1
+STU059,EX013,Functions,9,3,0,0.93,0.279,No Error,1
+STU004,EX018,Variables,2,5,0,0.39,0.085,Variable Misuse,0
+STU100,EX025,Loops,8,3,0,0.07,0.124,Incorrect Condition,0
+STU034,EX026,Functions,3,1,0,0.62,0.704,Loop Logic Error,0
+STU009,EX011,Strings,2,1,0,0.13,0.398,Variable Misuse,0
+STU070,EX019,Lists,10,0,0,0.93,0.194,No Error,1
+STU075,EX018,Conditional Statements,3,4,0,0.19,0.835,Incorrect Output,0
+STU049,EX028,Lists,4,2,0,0.11,0.12,Incorrect Output,0
+STU069,EX006,Variables,10,5,0,0.93,0.052,No Error,1
+STU099,EX025,Lists,7,3,0,0.82,0.049,No Error,1
+STU043,EX002,Variables,10,0,0,0.08,0.922,Incorrect Condition,0
+STU055,EX017,Conditional Statements,2,4,0,0.15,0.043,Incorrect Condition,0
+STU001,EX006,Conditional Statements,8,1,0,0.89,0.252,No Error,1
+STU053,EX021,Variables,2,3,0,0.23,0.423,Variable Misuse,0
+STU036,EX012,Lists,5,1,0,1.0,0.152,No Error,1
+STU050,EX021,Conditional Statements,9,3,0,0.3,1.496,Incorrect Condition,0
+STU031,EX001,Functions,2,3,0,0.21,1.087,Incorrect Output,0
+STU073,EX006,Loops,9,1,1,0.03,1.407,Syntax Error,0
+STU037,EX027,Variables,5,5,0,0.23,0.509,Incorrect Output,0
+STU048,EX003,Variables,10,0,0,0.12,1.329,Incorrect Condition,0
+STU028,EX016,Variables,7,5,0,0.48,0.05,Incorrect Output,0
+STU097,EX016,Strings,4,3,0,0.62,0.632,Variable Misuse,0
+STU029,EX008,Strings,4,3,0,0.19,0.731,Incorrect Output,0
+STU075,EX010,Lists,1,6,0,0.88,0.221,No Error,1
+STU031,EX008,Functions,1,4,1,0.17,0.399,Syntax Error,0
+STU082,EX004,Conditional Statements,1,4,1,0.38,1.153,Syntax Error,0
+STU023,EX008,Loops,5,3,0,0.88,0.235,No Error,1
+STU065,EX029,Lists,4,3,0,0.42,0.274,Incorrect Output,0
+STU096,EX003,Loops,4,4,0,0.97,0.206,No Error,1
+STU025,EX022,Variables,8,5,0,0.31,0.141,Variable Misuse,0
+STU075,EX008,Lists,2,3,0,0.98,0.012,No Error,1
+STU046,EX016,Loops,9,6,1,0.3,1.089,Syntax Error,0
+STU084,EX001,Loops,5,1,0,0.62,0.685,Variable Misuse,0
+STU035,EX030,Lists,3,3,0,0.49,0.652,Loop Logic Error,0
+STU070,EX005,Conditional Statements,7,7,0,0.95,0.139,No Error,1
+STU016,EX015,Lists,10,1,0,0.02,0.562,Variable Misuse,0
+STU027,EX006,Conditional Statements,6,5,0,0.5,0.293,Incorrect Output,0
+STU060,EX012,Strings,6,3,0,0.34,0.863,Incorrect Output,0
+STU042,EX003,Strings,5,3,0,0.9,0.076,No Error,1
+STU095,EX005,Conditional Statements,7,1,0,0.47,1.467,Incorrect Condition,0
+STU091,EX025,Variables,5,4,0,0.29,1.213,Incorrect Output,0
+STU028,EX024,Loops,8,2,0,0.96,0.178,No Error,1
+STU052,EX017,Loops,10,1,0,0.28,0.162,Variable Misuse,0
+STU007,EX026,Lists,5,2,0,0.36,1.193,Variable Misuse,0
+STU036,EX010,Loops,1,6,0,0.57,1.394,Incorrect Condition,0
+STU018,EX024,Functions,6,5,1,0.07,0.154,Syntax Error,0
+STU046,EX027,Functions,2,6,0,0.83,0.209,No Error,1
+STU054,EX017,Lists,1,2,0,0.82,0.207,No Error,1
+STU064,EX001,Loops,7,2,0,0.83,0.252,No Error,1
+STU084,EX009,Functions,4,5,0,0.1,1.345,Variable Misuse,0
+STU030,EX005,Lists,7,7,0,0.38,0.746,Loop Logic Error,0
+STU065,EX019,Functions,8,4,0,0.64,1.257,Loop Logic Error,0
+STU008,EX029,Lists,2,2,0,0.31,1.224,Loop Logic Error,0
+STU094,EX007,Loops,2,3,0,0.05,1.067,Incorrect Condition,0
+STU004,EX030,Variables,1,4,0,0.19,0.382,Variable Misuse,0
+STU091,EX001,Strings,4,1,0,0.01,0.736,Incorrect Output,0
+STU064,EX021,Lists,9,3,0,0.88,0.291,No Error,1
+STU066,EX020,Strings,2,4,0,0.38,0.851,Incorrect Output,0
+STU016,EX015,Lists,6,1,0,0.45,0.957,Loop Logic Error,0
+STU002,EX018,Strings,3,0,0,0.83,0.226,No Error,1
+STU046,EX012,Strings,3,4,0,0.06,0.38,Incorrect Output,0
+STU085,EX012,Strings,6,3,0,0.3,1.474,Variable Misuse,0
+STU080,EX006,Loops,4,0,0,0.11,1.305,Loop Logic Error,0
+STU003,EX008,Lists,6,1,0,0.81,0.193,No Error,1
+STU036,EX005,Lists,7,2,0,0.88,0.237,No Error,1
+STU018,EX017,Lists,2,4,0,0.23,1.492,Incorrect Output,0
+STU088,EX005,Lists,8,3,0,0.08,1.286,Incorrect Output,0
+STU020,EX003,Functions,3,6,0,0.58,1.38,Incorrect Output,0
+STU002,EX007,Loops,2,6,1,0.4,1.08,Syntax Error,0
+STU056,EX021,Functions,6,3,0,0.97,0.242,No Error,1
+STU014,EX010,Strings,9,4,0,0.03,1.196,Incorrect Output,0
+STU093,EX015,Strings,6,5,0,0.93,0.057,No Error,1
+STU095,EX018,Functions,9,5,0,0.83,0.291,No Error,1
+STU062,EX012,Conditional Statements,9,1,0,0.92,0.174,No Error,1
+STU076,EX022,Functions,8,5,0,0.98,0.078,No Error,1
+STU070,EX006,Strings,1,5,0,0.59,0.116,Incorrect Output,0
+STU029,EX009,Functions,6,2,0,0.99,0.241,No Error,1
+STU053,EX021,Loops,10,1,0,0.82,0.026,No Error,1
+STU057,EX018,Functions,7,2,0,0.07,0.624,Variable Misuse,0
+STU093,EX013,Loops,8,2,0,0.0,0.945,Variable Misuse,0
+STU016,EX016,Lists,1,6,0,0.12,1.372,Variable Misuse,0
+STU093,EX026,Strings,9,2,0,0.99,0.167,No Error,1
+STU034,EX027,Conditional Statements,9,4,0,0.81,0.256,No Error,1
+STU100,EX003,Loops,1,7,0,0.89,0.201,No Error,1
+STU012,EX010,Loops,10,4,0,0.23,1.044,Variable Misuse,0
+STU043,EX003,Functions,7,1,0,0.11,0.135,Incorrect Output,0
+STU074,EX014,Strings,6,1,0,0.13,1.126,Incorrect Condition,0
+STU042,EX001,Functions,4,1,1,0.36,0.673,Syntax Error,0
+STU049,EX020,Variables,6,5,0,0.07,0.895,Variable Misuse,0
+STU098,EX027,Conditional Statements,3,5,0,0.98,0.188,No Error,1
+STU015,EX008,Lists,7,3,0,0.85,0.243,No Error,1
+STU056,EX013,Functions,5,5,0,0.87,0.043,No Error,1
+STU039,EX021,Loops,9,1,0,0.88,0.064,No Error,1
+STU008,EX008,Conditional Statements,4,5,0,0.96,0.151,No Error,1
+STU075,EX014,Variables,8,0,0,0.23,1.321,Incorrect Output,0
+STU033,EX012,Strings,4,0,0,0.89,0.154,No Error,1
+STU021,EX024,Strings,10,1,0,0.47,1.245,Incorrect Output,0
+STU054,EX005,Strings,10,3,0,0.89,0.209,No Error,1
+STU009,EX010,Functions,9,3,0,0.17,1.049,Variable Misuse,0
+STU051,EX009,Conditional Statements,8,6,1,0.31,1.24,Syntax Error,0
+STU081,EX003,Lists,2,5,0,0.41,1.398,Incorrect Condition,0
+STU020,EX003,Functions,10,0,0,0.41,0.534,Incorrect Output,0
+STU027,EX015,Functions,4,4,1,0.39,0.485,Syntax Error,0
+STU085,EX004,Variables,1,4,0,0.92,0.104,No Error,1
+STU002,EX010,Variables,7,2,0,0.95,0.109,No Error,1
+STU087,EX013,Strings,10,3,0,0.85,0.208,No Error,1
+STU009,EX003,Functions,1,9,0,0.41,0.998,Variable Misuse,0
+STU071,EX015,Functions,1,1,0,0.38,1.209,Loop Logic Error,0
+STU096,EX014,Loops,7,2,0,0.98,0.225,No Error,1
+STU070,EX030,Conditional Statements,8,5,0,0.81,0.113,No Error,1
+STU076,EX026,Conditional Statements,7,2,0,1.0,0.189,No Error,1
+STU002,EX018,Variables,6,3,0,0.33,0.385,Variable Misuse,0
+STU050,EX013,Functions,2,5,0,0.19,0.966,Variable Misuse,0
+STU037,EX030,Conditional Statements,8,7,0,0.96,0.116,No Error,1
+STU016,EX004,Strings,7,2,1,0.21,0.744,Syntax Error,0
+STU030,EX019,Strings,6,5,0,0.98,0.013,No Error,1
+STU095,EX017,Loops,2,4,0,0.34,1.002,Variable Misuse,0
+STU025,EX007,Strings,10,0,0,0.36,0.191,Incorrect Output,0
+STU088,EX011,Functions,1,4,0,0.56,0.579,Variable Misuse,0
+STU078,EX014,Functions,1,1,0,0.88,0.176,No Error,1
+STU054,EX001,Variables,7,0,0,0.95,0.164,No Error,1
+STU054,EX011,Loops,2,3,0,0.11,1.489,Loop Logic Error,0
+STU015,EX026,Conditional Statements,2,5,0,0.18,0.024,Incorrect Condition,0
+STU064,EX005,Lists,5,7,0,0.9,0.091,No Error,1
+STU061,EX018,Functions,8,4,0,0.8,0.205,No Error,1
+STU041,EX014,Variables,10,0,0,0.89,0.298,No Error,1
+STU093,EX026,Lists,7,3,0,0.61,0.614,Variable Misuse,0
+STU012,EX010,Variables,1,5,0,0.02,0.439,Incorrect Output,0
+STU100,EX027,Conditional Statements,3,9,0,0.69,0.193,Incorrect Condition,0
+STU003,EX005,Variables,7,6,0,0.93,0.072,No Error,1
+STU039,EX006,Loops,2,2,0,0.16,0.614,Loop Logic Error,0
+STU085,EX029,Variables,7,0,0,0.6,0.103,Variable Misuse,0
+STU041,EX029,Strings,4,7,0,0.32,0.954,Loop Logic Error,0
+STU089,EX004,Functions,4,6,0,0.64,1.076,Incorrect Condition,0
+STU094,EX012,Lists,1,7,0,0.87,0.19,No Error,1
+STU044,EX028,Strings,6,5,0,0.9,0.023,No Error,1
+STU006,EX001,Conditional Statements,2,5,0,0.96,0.266,No Error,1
+STU092,EX025,Lists,4,7,0,0.94,0.104,No Error,1
+STU056,EX008,Functions,1,5,0,0.07,0.391,Variable Misuse,0
+STU073,EX010,Functions,8,1,1,0.54,0.24,Syntax Error,0
+STU021,EX012,Lists,8,4,0,0.92,0.051,No Error,1
+STU076,EX011,Lists,5,4,0,0.81,0.235,No Error,1
+STU087,EX024,Functions,8,3,0,0.93,0.071,No Error,1
+STU071,EX016,Conditional Statements,10,2,0,0.16,0.235,Incorrect Output,0
+STU070,EX023,Loops,9,4,0,0.91,0.049,No Error,1
+STU019,EX027,Functions,10,3,0,0.94,0.155,No Error,1
+STU057,EX001,Loops,3,2,0,0.62,0.923,Incorrect Condition,0
+STU028,EX004,Loops,1,6,0,0.69,1.024,Incorrect Output,0
+STU084,EX025,Variables,6,5,0,0.89,0.06,No Error,1
+STU053,EX028,Strings,3,7,0,0.17,0.095,Incorrect Condition,0
+STU045,EX020,Loops,1,3,1,0.39,0.463,Syntax Error,0
+STU097,EX030,Strings,8,5,0,0.85,0.132,No Error,1
+STU022,EX011,Loops,3,4,0,0.62,0.066,Incorrect Output,0
+STU012,EX011,Loops,9,3,0,0.82,0.111,No Error,1
+STU020,EX029,Functions,8,4,0,0.41,1.025,Variable Misuse,0
+STU023,EX022,Functions,8,0,0,0.91,0.064,No Error,1
+STU083,EX004,Conditional Statements,6,3,0,0.86,0.138,No Error,1
+STU029,EX026,Loops,7,5,0,0.57,1.432,Loop Logic Error,0
+STU037,EX026,Conditional Statements,10,9,0,0.94,0.248,No Error,1
+STU021,EX002,Variables,3,0,0,0.33,0.235,Incorrect Output,0
+STU086,EX019,Loops,10,0,0,0.89,0.273,No Error,1
+STU012,EX026,Strings,2,6,0,0.85,0.087,No Error,1
+STU091,EX007,Variables,9,0,0,0.89,0.192,No Error,1
+STU099,EX015,Strings,5,4,0,0.26,0.888,Incorrect Output,0
+STU076,EX020,Loops,1,3,1,0.28,0.674,Syntax Error,0
+STU094,EX001,Lists,10,0,0,0.88,0.224,No Error,1
+STU072,EX003,Conditional Statements,9,3,0,0.92,0.118,No Error,1
+STU062,EX026,Lists,2,7,0,0.21,1.332,Loop Logic Error,0
+STU001,EX003,Lists,7,4,0,0.93,0.234,No Error,1
+STU031,EX012,Strings,4,1,0,0.45,1.412,Incorrect Output,0
+STU090,EX023,Variables,7,4,0,0.98,0.023,No Error,1
+STU001,EX015,Loops,5,5,0,0.85,0.023,No Error,1
+STU028,EX022,Functions,6,8,0,0.96,0.117,No Error,1
+STU037,EX019,Functions,7,1,0,0.94,0.152,No Error,1
+STU047,EX008,Lists,6,3,0,0.16,0.248,Loop Logic Error,0
+STU035,EX017,Conditional Statements,4,1,0,0.83,0.066,No Error,1
+STU065,EX014,Lists,6,1,0,0.99,0.207,No Error,1
+STU004,EX013,Variables,3,8,0,0.9,0.072,No Error,1
+STU053,EX016,Strings,1,8,0,0.2,1.03,Incorrect Output,0
+STU024,EX014,Conditional Statements,9,1,1,0.21,0.908,Syntax Error,0
+STU079,EX005,Strings,9,0,1,0.66,1.047,Syntax Error,0
+STU032,EX002,Lists,2,3,1,0.49,0.816,Syntax Error,0
+STU072,EX025,Conditional Statements,10,2,0,0.92,0.28,No Error,1
+STU024,EX030,Variables,4,4,0,0.84,0.022,No Error,1
+STU098,EX030,Variables,2,2,1,0.55,0.624,Syntax Error,0
+STU018,EX012,Loops,7,4,0,0.23,0.192,Loop Logic Error,0
+STU042,EX007,Functions,3,1,0,0.06,0.152,Incorrect Output,0
+STU016,EX024,Conditional Statements,8,4,0,0.89,0.204,No Error,1
+STU067,EX026,Variables,9,1,0,0.15,1.055,Variable Misuse,0
+STU035,EX001,Functions,2,5,0,0.91,0.129,No Error,1
+STU047,EX019,Strings,7,3,0,0.53,1.422,Incorrect Output,0
+STU092,EX015,Variables,8,3,0,0.83,0.257,No Error,1
+STU019,EX015,Variables,6,0,0,0.93,0.151,No Error,1
+STU088,EX019,Functions,3,2,0,0.96,0.084,No Error,1
+STU020,EX028,Strings,1,5,0,0.8,0.277,No Error,1
+STU039,EX006,Loops,1,2,0,0.17,0.27,Incorrect Condition,0
+STU026,EX018,Loops,7,4,0,0.09,0.461,Variable Misuse,0
+STU011,EX004,Lists,4,5,0,0.45,1.132,Loop Logic Error,0
+STU090,EX024,Variables,2,3,0,0.06,0.953,Incorrect Output,0
+STU046,EX013,Variables,6,1,1,0.16,0.305,Syntax Error,0
+STU094,EX022,Variables,9,1,0,0.93,0.095,No Error,1
+STU017,EX004,Variables,8,1,0,0.96,0.159,No Error,1
+STU074,EX021,Functions,9,6,0,0.59,0.624,Variable Misuse,0
+STU063,EX003,Loops,2,3,0,0.08,0.972,Incorrect Output,0
+STU055,EX022,Conditional Statements,10,0,1,0.63,1.254,Syntax Error,0
+STU011,EX004,Loops,2,5,0,0.37,0.432,Incorrect Output,0
+STU001,EX020,Variables,2,6,0,0.82,0.077,No Error,1
+STU001,EX023,Strings,10,4,0,0.85,0.278,No Error,1
+STU088,EX009,Loops,10,0,0,0.45,1.385,Loop Logic Error,0
+STU040,EX024,Variables,6,3,0,0.84,0.133,No Error,1
+STU014,EX011,Strings,3,5,0,0.09,1.448,Incorrect Condition,0
+STU043,EX025,Variables,6,0,0,0.86,0.217,No Error,1
+STU085,EX004,Lists,8,1,0,0.91,0.294,No Error,1
+STU067,EX017,Loops,5,4,0,0.0,0.271,Loop Logic Error,0
+STU100,EX005,Strings,5,5,0,0.69,0.772,Incorrect Output,0
+STU081,EX016,Loops,3,2,0,0.59,0.107,Incorrect Output,0
+STU090,EX001,Strings,4,5,0,0.58,0.679,Variable Misuse,0
+STU024,EX025,Variables,1,4,0,0.07,0.877,Incorrect Condition,0
+STU060,EX019,Variables,4,3,0,0.39,0.204,Variable Misuse,0
+STU048,EX020,Lists,8,2,0,0.68,0.058,Loop Logic Error,0
+STU085,EX029,Lists,3,4,0,0.06,1.227,Variable Misuse,0
+STU082,EX030,Lists,10,2,0,0.96,0.236,No Error,1
+STU082,EX013,Conditional Statements,7,3,0,0.97,0.176,No Error,1
+STU030,EX001,Conditional Statements,1,4,0,0.07,1.158,Incorrect Condition,0
+STU098,EX023,Functions,6,2,0,0.95,0.109,No Error,1
+STU063,EX025,Variables,4,3,0,0.57,0.873,Incorrect Output,0
+STU036,EX004,Loops,9,2,0,0.91,0.159,No Error,1
+STU024,EX030,Functions,7,3,0,0.35,0.751,Loop Logic Error,0
+STU006,EX014,Loops,9,0,0,0.13,0.076,Incorrect Condition,0
+STU066,EX025,Functions,9,4,0,0.99,0.027,No Error,1
+STU052,EX027,Strings,1,3,0,0.81,0.066,No Error,1
+STU047,EX019,Functions,8,5,0,0.59,0.272,Loop Logic Error,0
+STU093,EX016,Lists,4,2,0,0.49,0.156,Loop Logic Error,0
+STU099,EX022,Functions,10,5,0,0.97,0.148,No Error,1
+STU013,EX018,Strings,10,5,0,0.91,0.11,No Error,1
+STU100,EX022,Variables,7,3,1,0.68,0.58,Syntax Error,0
+STU041,EX021,Variables,6,5,0,0.82,0.292,No Error,1
+STU056,EX012,Functions,8,5,0,0.13,0.576,Incorrect Output,0
+STU054,EX001,Lists,6,6,0,0.89,0.148,No Error,1
+STU066,EX020,Strings,7,5,0,0.58,0.713,Incorrect Output,0
+STU068,EX030,Loops,2,6,0,0.13,1.122,Incorrect Condition,0
+STU067,EX025,Loops,7,5,0,0.68,0.849,Loop Logic Error,0
+STU064,EX017,Loops,1,1,0,0.93,0.04,No Error,1
+STU084,EX022,Functions,10,0,0,0.94,0.06,No Error,1
+STU029,EX025,Functions,3,2,1,0.24,0.538,Syntax Error,0
+STU038,EX013,Functions,1,4,0,0.11,0.64,Loop Logic Error,0
+STU080,EX016,Conditional Statements,6,4,0,0.95,0.014,No Error,1
+STU079,EX017,Conditional Statements,6,1,0,0.95,0.172,No Error,1
+STU092,EX005,Conditional Statements,7,2,0,0.68,0.311,Incorrect Output,0
+STU064,EX014,Conditional Statements,6,3,0,0.57,0.995,Incorrect Condition,0
+STU013,EX009,Conditional Statements,8,2,0,0.98,0.261,No Error,1
+STU040,EX015,Strings,7,3,0,0.87,0.247,No Error,1
+STU050,EX022,Loops,4,5,0,0.94,0.038,No Error,1
+STU048,EX012,Loops,3,5,0,0.82,0.163,No Error,1
+STU077,EX017,Conditional Statements,2,6,0,0.26,1.36,Incorrect Output,0
+STU077,EX028,Variables,4,4,0,0.97,0.201,No Error,1
+STU005,EX004,Strings,1,4,0,0.89,0.3,No Error,1
+STU045,EX008,Functions,8,1,1,0.3,1.447,Syntax Error,0
+STU053,EX030,Loops,6,5,0,0.91,0.238,No Error,1
+STU072,EX008,Loops,7,1,0,0.93,0.292,No Error,1
+STU097,EX013,Loops,1,2,0,0.1,0.287,Incorrect Output,0
+STU076,EX005,Lists,2,4,0,0.86,0.124,No Error,1
+STU098,EX014,Lists,4,4,0,0.49,1.206,Incorrect Output,0
+STU099,EX010,Functions,9,2,0,0.31,0.835,Loop Logic Error,0
+STU008,EX027,Variables,10,1,0,0.56,1.089,Variable Misuse,0
+STU073,EX007,Lists,2,5,0,0.56,0.664,Incorrect Output,0
+STU024,EX027,Lists,8,0,0,0.88,0.135,No Error,1
+STU058,EX019,Functions,5,6,0,0.98,0.143,No Error,1
+STU084,EX020,Variables,8,2,0,0.88,0.13,No Error,1
+STU080,EX029,Strings,5,5,0,0.2,0.279,Incorrect Output,0
+STU057,EX016,Lists,2,3,0,0.3,1.093,Incorrect Output,0
+STU081,EX007,Conditional Statements,4,7,1,0.23,0.626,Syntax Error,0
+STU023,EX023,Variables,3,5,0,0.86,0.251,No Error,1
+STU010,EX023,Functions,6,5,0,0.24,1.322,Incorrect Condition,0
+STU032,EX006,Functions,5,1,0,0.46,0.528,Incorrect Output,0
+STU049,EX002,Loops,9,1,0,0.91,0.152,No Error,1
+STU078,EX008,Variables,8,1,0,0.19,0.855,Incorrect Output,0
+STU053,EX016,Lists,4,3,0,0.83,0.017,No Error,1
+STU022,EX025,Functions,7,4,0,0.31,1.156,Incorrect Output,0
+STU079,EX024,Conditional Statements,1,4,0,0.85,0.13,No Error,1
+STU043,EX022,Loops,4,4,0,0.4,0.554,Incorrect Condition,0
+STU039,EX028,Lists,5,7,0,0.89,0.086,No Error,1
+STU072,EX011,Conditional Statements,1,3,0,0.32,1.189,Incorrect Output,0
+STU036,EX018,Conditional Statements,2,4,0,0.59,1.019,Variable Misuse,0
+STU023,EX001,Variables,9,0,0,0.96,0.157,No Error,1
+STU093,EX028,Functions,1,5,0,0.01,0.648,Variable Misuse,0
+STU064,EX002,Conditional Statements,8,0,1,0.11,0.948,Syntax Error,0
+STU054,EX003,Functions,3,8,0,0.97,0.062,No Error,1
+STU063,EX005,Lists,5,3,0,0.38,0.984,Loop Logic Error,0
+STU005,EX007,Loops,10,1,0,0.97,0.271,No Error,1
+STU052,EX012,Functions,4,7,0,0.97,0.18,No Error,1
+STU051,EX013,Lists,5,2,0,0.48,0.609,Variable Misuse,0
+STU069,EX015,Conditional Statements,6,0,1,0.33,0.948,Syntax Error,0
+STU016,EX016,Strings,9,4,0,0.88,0.039,No Error,1
+STU098,EX005,Functions,5,4,0,0.87,0.21,No Error,1
+STU047,EX019,Loops,9,3,0,0.94,0.285,No Error,1
+STU058,EX029,Conditional Statements,8,1,1,0.42,0.49,Syntax Error,0
+STU080,EX024,Conditional Statements,1,5,0,0.5,0.254,Incorrect Condition,0
+STU080,EX020,Functions,8,2,1,0.17,0.826,Syntax Error,0
+STU063,EX008,Strings,9,3,0,0.03,1.145,Incorrect Output,0
+STU072,EX010,Conditional Statements,5,0,0,0.33,1.025,Loop Logic Error,0
+STU072,EX004,Loops,6,4,0,0.52,0.829,Incorrect Condition,0
+STU075,EX005,Strings,10,2,0,0.81,0.167,No Error,1
+STU020,EX016,Lists,9,0,0,0.22,0.665,Loop Logic Error,0
+STU070,EX020,Variables,6,2,0,0.7,0.165,Incorrect Output,0
+STU011,EX020,Conditional Statements,7,4,0,0.08,1.149,Incorrect Condition,0
+STU055,EX001,Loops,1,7,0,0.98,0.245,No Error,1
+STU081,EX021,Functions,10,2,0,0.96,0.072,No Error,1
+STU064,EX030,Functions,3,3,0,0.36,0.571,Incorrect Output,0
+STU013,EX009,Functions,3,6,0,0.31,0.087,Incorrect Output,0
+STU058,EX024,Functions,7,4,0,0.12,0.872,Variable Misuse,0
+STU014,EX028,Lists,1,1,0,0.85,0.121,No Error,1
+STU062,EX023,Loops,10,4,0,0.86,0.238,No Error,1
+STU096,EX027,Variables,2,1,1,0.22,0.608,Syntax Error,0
+STU057,EX013,Variables,5,3,0,0.9,0.17,No Error,1
+STU066,EX022,Conditional Statements,6,6,0,0.56,0.925,Loop Logic Error,0
+STU065,EX029,Lists,5,0,0,0.07,0.992,Variable Misuse,0
+STU100,EX030,Variables,2,10,1,0.41,0.162,Syntax Error,0
+STU063,EX020,Functions,7,2,0,0.85,0.29,No Error,1
+STU040,EX027,Functions,5,2,1,0.58,0.557,Syntax Error,0
+STU049,EX024,Variables,5,3,0,0.83,0.119,No Error,1
+STU033,EX010,Strings,10,3,0,0.84,0.273,No Error,1
+STU003,EX019,Strings,5,2,0,0.84,0.108,No Error,1
+STU099,EX001,Conditional Statements,4,1,0,0.12,1.133,Incorrect Output,0
+STU007,EX008,Variables,7,4,0,0.84,0.017,No Error,1
+STU095,EX001,Loops,8,3,0,0.37,0.191,Loop Logic Error,0
+STU038,EX004,Variables,5,1,0,0.23,1.196,Incorrect Output,0
+STU017,EX017,Loops,7,3,0,0.81,0.225,No Error,1
+STU086,EX001,Loops,1,5,0,0.83,0.031,No Error,1
+STU032,EX002,Strings,9,0,0,0.84,0.039,No Error,1
+STU061,EX017,Lists,2,5,0,0.9,0.233,No Error,1
+STU050,EX017,Loops,5,4,0,0.81,0.122,No Error,1
+STU052,EX010,Strings,8,1,0,0.16,0.916,Incorrect Condition,0
+STU065,EX018,Variables,9,1,0,0.06,0.901,Incorrect Output,0
+STU047,EX009,Lists,4,10,0,0.91,0.103,No Error,1
+STU066,EX018,Loops,3,6,0,0.39,0.276,Incorrect Condition,0
+STU098,EX002,Variables,9,3,0,0.96,0.159,No Error,1
+STU062,EX003,Loops,8,3,0,0.16,0.435,Loop Logic Error,0
+STU024,EX015,Strings,3,1,0,0.04,1.167,Incorrect Output,0
+STU068,EX011,Conditional Statements,1,4,0,0.39,0.276,Incorrect Output,0
+STU071,EX006,Strings,7,2,0,0.29,1.282,Incorrect Output,0
+STU053,EX007,Loops,5,3,0,0.94,0.176,No Error,1
+STU024,EX029,Variables,6,2,0,0.82,0.117,No Error,1
+STU005,EX003,Variables,2,6,0,0.09,0.53,Variable Misuse,0
+STU058,EX028,Conditional Statements,3,5,0,0.84,0.045,No Error,1
+STU084,EX019,Strings,2,2,0,0.98,0.232,No Error,1
+STU017,EX001,Lists,6,4,0,0.93,0.017,No Error,1
+STU006,EX007,Conditional Statements,5,4,0,0.16,0.045,Incorrect Condition,0
+STU031,EX017,Loops,3,2,0,0.86,0.128,No Error,1
+STU087,EX019,Strings,2,6,0,0.18,0.948,Variable Misuse,0
+STU021,EX024,Lists,2,4,0,0.41,1.432,Variable Misuse,0
+STU095,EX019,Strings,6,2,0,0.82,0.298,No Error,1
+STU041,EX028,Functions,2,2,0,0.97,0.047,No Error,1
+STU035,EX030,Lists,9,4,0,0.91,0.089,No Error,1
+STU056,EX029,Variables,4,2,0,0.93,0.105,No Error,1
+STU002,EX005,Loops,4,4,0,0.41,0.549,Incorrect Output,0
+STU099,EX006,Conditional Statements,2,0,0,0.66,0.528,Incorrect Output,0
+STU086,EX004,Lists,6,1,0,0.4,1.06,Loop Logic Error,0
+STU035,EX016,Variables,7,4,0,0.8,0.06,No Error,1
+STU050,EX027,Conditional Statements,3,2,0,0.89,0.086,No Error,1
+STU100,EX005,Functions,6,2,0,0.9,0.192,No Error,1
+STU013,EX013,Loops,7,1,0,0.17,0.831,Incorrect Output,0
+STU004,EX022,Loops,10,5,0,0.17,0.6,Incorrect Condition,0
+STU022,EX025,Lists,4,3,1,0.11,1.249,Syntax Error,0
+STU050,EX026,Conditional Statements,1,5,0,0.33,0.182,Variable Misuse,0
+STU030,EX021,Functions,3,2,0,0.81,0.233,No Error,1
+STU072,EX013,Strings,8,3,0,0.96,0.18,No Error,1
+STU096,EX012,Conditional Statements,6,4,0,0.88,0.014,No Error,1
+STU001,EX028,Variables,3,1,0,0.31,0.425,Incorrect Output,0
+STU030,EX006,Strings,9,2,0,0.4,1.138,Incorrect Output,0
+STU011,EX025,Loops,9,6,0,0.43,1.113,Loop Logic Error,0
+STU030,EX003,Lists,10,3,0,0.97,0.159,No Error,1
+STU034,EX003,Strings,10,1,0,0.83,0.193,No Error,1
+STU061,EX009,Lists,1,4,0,0.96,0.043,No Error,1
+STU063,EX003,Loops,3,4,0,0.98,0.032,No Error,1
+STU093,EX008,Conditional Statements,5,6,0,0.15,0.544,Incorrect Output,0
+STU070,EX024,Conditional Statements,4,6,0,0.95,0.202,No Error,1
+STU069,EX029,Lists,9,4,0,0.34,1.107,Loop Logic Error,0
+STU071,EX020,Loops,6,2,1,0.36,1.202,Syntax Error,0
+STU067,EX017,Variables,6,8,0,0.24,0.184,Variable Misuse,0
+STU015,EX002,Strings,6,4,0,0.97,0.236,No Error,1
+STU011,EX016,Variables,5,1,0,0.81,0.283,No Error,1
+STU005,EX003,Conditional Statements,8,4,0,0.3,0.024,Incorrect Output,0
+STU018,EX012,Lists,9,2,0,0.9,0.256,No Error,1
+STU007,EX026,Loops,4,3,0,0.21,0.323,Loop Logic Error,0
+STU008,EX011,Conditional Statements,6,4,0,0.84,0.13,No Error,1
+STU037,EX023,Lists,9,4,0,0.02,1.094,Incorrect Condition,0
+STU054,EX015,Functions,4,3,0,0.22,0.096,Loop Logic Error,0
+STU088,EX009,Functions,9,0,0,0.63,1.047,Variable Misuse,0
+STU051,EX010,Lists,10,3,0,0.9,0.056,No Error,1
+STU086,EX006,Functions,4,2,0,0.32,0.539,Variable Misuse,0
+STU025,EX023,Loops,9,1,0,0.86,0.056,No Error,1
+STU029,EX015,Conditional Statements,8,5,0,0.94,0.11,No Error,1
+STU051,EX005,Strings,2,5,0,0.29,0.628,Incorrect Output,0
+STU019,EX001,Loops,3,8,0,0.1,0.953,Loop Logic Error,0
+STU023,EX010,Variables,7,4,0,0.4,1.081,Variable Misuse,0
+STU074,EX006,Strings,7,5,0,0.93,0.266,No Error,1
+STU092,EX017,Conditional Statements,10,4,0,0.85,0.129,No Error,1
+STU050,EX019,Functions,7,2,0,0.91,0.16,No Error,1
+STU097,EX012,Strings,5,3,0,0.68,0.902,Incorrect Output,0
+STU051,EX012,Loops,6,3,0,0.9,0.088,No Error,1
+STU095,EX025,Lists,10,1,0,0.33,0.442,Loop Logic Error,0
+STU009,EX008,Variables,4,4,0,0.04,1.428,Variable Misuse,0
+STU074,EX020,Conditional Statements,8,4,0,0.93,0.165,No Error,1
+STU053,EX016,Strings,7,2,0,0.39,0.448,Incorrect Condition,0
+STU002,EX012,Conditional Statements,9,1,0,0.36,0.306,Variable Misuse,0
+STU010,EX009,Strings,4,0,0,0.85,0.281,No Error,1
+STU091,EX030,Loops,10,0,0,0.83,0.255,No Error,1
+STU046,EX009,Variables,10,5,0,0.87,0.273,No Error,1
+STU008,EX001,Lists,7,2,0,0.95,0.284,No Error,1
+STU010,EX008,Loops,7,0,0,0.88,0.171,No Error,1
+STU094,EX016,Strings,5,3,0,0.35,1.246,Variable Misuse,0
+STU023,EX003,Loops,6,4,0,0.93,0.191,No Error,1
+STU041,EX001,Functions,9,3,0,0.93,0.253,No Error,1
+STU033,EX026,Lists,6,0,0,0.21,1.064,Variable Misuse,0
+STU034,EX016,Lists,7,1,0,0.68,0.966,Loop Logic Error,0
+STU044,EX018,Variables,7,3,0,0.99,0.259,No Error,1
+STU069,EX024,Conditional Statements,2,6,0,0.48,1.223,Variable Misuse,0
+STU087,EX020,Strings,1,3,0,0.83,0.212,No Error,1
+STU080,EX014,Functions,7,3,0,0.92,0.148,No Error,1
+STU076,EX005,Loops,9,4,1,0.17,0.935,Syntax Error,0
+STU038,EX024,Functions,8,4,0,0.99,0.044,No Error,1
+STU062,EX024,Lists,4,0,0,0.06,0.323,Loop Logic Error,0
+STU077,EX006,Lists,7,3,0,0.23,0.596,Incorrect Condition,0
+STU046,EX027,Conditional Statements,8,0,0,0.83,0.272,No Error,1
+STU082,EX015,Functions,4,7,1,0.61,1.345,Syntax Error,0
+STU050,EX008,Functions,6,1,0,0.99,0.176,No Error,1
+STU080,EX006,Functions,3,3,0,0.91,0.023,No Error,1
+STU052,EX007,Lists,6,7,0,0.84,0.075,No Error,1
+STU068,EX020,Lists,9,0,0,0.92,0.104,No Error,1
+STU093,EX002,Conditional Statements,10,2,0,0.98,0.223,No Error,1
+STU094,EX012,Strings,6,3,0,0.63,0.683,Incorrect Output,0
+STU032,EX030,Strings,4,3,0,0.98,0.14,No Error,1
+STU014,EX023,Conditional Statements,5,1,0,0.68,0.514,Incorrect Condition,0
+STU045,EX009,Loops,9,2,0,0.51,0.484,Incorrect Output,0
+STU085,EX005,Lists,4,2,0,0.8,0.053,No Error,1
+STU015,EX027,Functions,5,5,0,0.94,0.016,No Error,1
+STU056,EX019,Conditional Statements,7,5,1,0.11,0.63,Syntax Error,0
+STU048,EX006,Loops,5,4,0,0.99,0.198,No Error,1
+STU089,EX018,Functions,3,9,0,0.45,0.172,Incorrect Condition,0
+STU039,EX013,Conditional Statements,3,2,1,0.14,0.892,Syntax Error,0
+STU099,EX017,Lists,3,4,0,0.96,0.231,No Error,1
+STU043,EX019,Lists,8,3,0,0.83,0.105,No Error,1
+STU076,EX021,Strings,4,5,0,0.91,0.151,No Error,1
+STU062,EX019,Strings,3,1,1,0.1,0.072,Syntax Error,0
+STU074,EX003,Functions,1,3,0,0.26,0.913,Incorrect Output,0
+STU090,EX029,Loops,1,4,1,0.13,1.047,Syntax Error,0
+STU096,EX021,Variables,10,4,0,0.88,0.012,No Error,1
+STU006,EX024,Variables,10,4,0,0.48,1.411,Variable Misuse,0
+STU056,EX028,Functions,10,3,0,0.93,0.014,No Error,1
+STU008,EX025,Lists,3,0,0,0.97,0.141,No Error,1
+STU023,EX011,Lists,2,6,0,0.06,0.345,Loop Logic Error,0
+STU086,EX025,Lists,7,0,1,0.69,1.476,Syntax Error,0
+STU037,EX010,Strings,4,4,0,0.14,0.169,Incorrect Output,0
+STU017,EX005,Variables,3,2,0,0.96,0.081,No Error,1
+STU005,EX030,Conditional Statements,6,7,0,0.35,0.384,Incorrect Output,0
+STU064,EX016,Conditional Statements,4,2,0,0.61,0.735,Loop Logic Error,0
+STU024,EX012,Conditional Statements,10,2,0,0.81,0.262,No Error,1
+STU078,EX015,Variables,6,5,0,0.29,0.623,Incorrect Output,0
+STU081,EX024,Strings,5,3,0,0.37,0.141,Incorrect Output,0
+STU048,EX023,Strings,7,2,0,0.09,1.096,Variable Misuse,0
+STU069,EX016,Loops,3,5,0,0.96,0.224,No Error,1
+STU072,EX002,Strings,4,4,0,0.31,1.109,Incorrect Condition,0
+STU091,EX017,Loops,8,1,0,0.85,0.044,No Error,1
+STU058,EX010,Functions,9,0,0,0.88,0.109,No Error,1
+STU019,EX012,Variables,4,4,0,0.88,0.109,No Error,1
+STU005,EX021,Conditional Statements,3,3,0,0.43,1.481,Incorrect Output,0
+STU014,EX013,Functions,6,5,0,0.6,1.29,Incorrect Output,0
+STU038,EX001,Strings,10,3,0,0.81,0.216,No Error,1
+STU041,EX019,Variables,5,1,0,0.32,0.737,Incorrect Output,0
+STU083,EX020,Variables,10,3,0,0.89,0.062,No Error,1
+STU040,EX005,Loops,1,5,0,0.87,0.013,No Error,1
+STU094,EX009,Functions,8,1,0,0.99,0.042,No Error,1
+STU067,EX009,Loops,10,2,0,0.91,0.213,No Error,1
+STU001,EX021,Lists,6,4,1,0.06,0.447,Syntax Error,0
+STU095,EX016,Lists,3,2,1,0.12,0.397,Syntax Error,0
+STU037,EX008,Functions,3,4,0,0.96,0.115,No Error,1
+STU080,EX023,Variables,2,3,1,0.44,0.137,Syntax Error,0
+STU092,EX020,Functions,9,3,0,0.96,0.195,No Error,1
+STU082,EX011,Conditional Statements,8,3,0,0.53,1.061,Variable Misuse,0
+STU063,EX005,Loops,6,4,0,0.41,1.287,Loop Logic Error,0
+STU007,EX004,Strings,1,5,0,0.92,0.202,No Error,1
+STU085,EX019,Functions,5,1,0,0.94,0.102,No Error,1
+STU008,EX005,Loops,5,0,0,0.98,0.033,No Error,1
+STU077,EX018,Loops,9,3,0,0.96,0.019,No Error,1
+STU069,EX023,Lists,5,3,0,0.4,0.604,Loop Logic Error,0
+STU100,EX011,Lists,9,3,0,0.34,0.4,Incorrect Condition,0
+STU022,EX020,Functions,8,2,0,0.83,0.068,No Error,1
+STU041,EX028,Loops,8,0,0,0.91,0.048,No Error,1
+STU034,EX010,Lists,2,5,0,0.17,0.489,Incorrect Output,0
+STU095,EX015,Loops,4,4,0,0.81,0.112,No Error,1
+STU090,EX018,Conditional Statements,3,5,0,0.34,0.104,Incorrect Output,0
+STU002,EX013,Lists,1,5,0,0.96,0.243,No Error,1
+STU009,EX013,Loops,8,4,0,0.86,0.206,No Error,1
+STU047,EX016,Conditional Statements,10,0,0,1.0,0.266,No Error,1
+STU038,EX024,Conditional Statements,9,1,0,0.87,0.038,No Error,1
+STU026,EX010,Conditional Statements,5,3,0,0.58,0.782,Loop Logic Error,0
+STU047,EX021,Lists,2,4,0,0.88,0.132,No Error,1
+STU099,EX007,Strings,6,4,0,0.87,0.12,No Error,1
+STU059,EX029,Functions,4,3,0,0.5,1.015,Variable Misuse,0
+STU030,EX015,Lists,8,6,0,0.82,0.057,No Error,1
+STU075,EX027,Conditional Statements,6,5,0,0.56,0.268,Incorrect Output,0
+STU015,EX005,Conditional Statements,10,0,0,0.95,0.061,No Error,1
+STU070,EX002,Strings,5,3,0,0.99,0.147,No Error,1
+STU082,EX027,Strings,2,3,0,0.4,1.441,Variable Misuse,0
+STU043,EX008,Strings,9,2,0,0.89,0.286,No Error,1
+STU020,EX013,Functions,4,4,0,0.92,0.162,No Error,1
+STU029,EX017,Variables,10,4,0,0.85,0.204,No Error,1
+STU023,EX013,Functions,1,8,0,0.65,0.628,Incorrect Output,0
+STU022,EX003,Loops,2,4,0,0.85,0.05,No Error,1
+STU098,EX025,Functions,10,0,0,0.81,0.204,No Error,1
+STU062,EX026,Functions,1,2,0,0.84,0.227,No Error,1
+STU040,EX022,Conditional Statements,2,5,0,0.35,0.748,Incorrect Output,0
+STU057,EX028,Lists,9,0,0,0.97,0.247,No Error,1
+STU095,EX019,Loops,1,4,0,0.36,0.51,Incorrect Output,0
+STU028,EX016,Conditional Statements,3,5,0,0.83,0.107,No Error,1
+STU020,EX004,Loops,6,2,0,0.45,0.23,Loop Logic Error,0
+STU078,EX024,Conditional Statements,5,2,0,0.86,0.265,No Error,1
+STU060,EX025,Strings,2,7,0,0.38,0.909,Incorrect Output,0
+STU100,EX030,Lists,10,0,0,0.02,0.651,Variable Misuse,0
+STU096,EX013,Lists,5,1,0,0.04,1.003,Incorrect Output,0
+STU063,EX019,Strings,8,2,0,0.89,0.062,No Error,1
+STU078,EX005,Functions,10,5,0,0.97,0.153,No Error,1
+STU054,EX015,Conditional Statements,9,4,0,0.81,0.285,No Error,1
+STU002,EX020,Lists,5,0,0,0.83,0.207,No Error,1
+STU013,EX025,Strings,1,8,0,0.22,0.492,Incorrect Output,0
+STU018,EX022,Functions,5,1,0,0.85,0.287,No Error,1
+STU060,EX014,Variables,7,3,0,0.81,0.156,No Error,1
+STU091,EX007,Strings,1,3,0,0.23,1.447,Incorrect Output,0
+STU016,EX026,Conditional Statements,3,6,0,0.96,0.116,No Error,1
+STU096,EX016,Lists,1,2,0,0.24,0.177,Incorrect Output,0
+STU044,EX010,Lists,10,3,0,0.81,0.145,No Error,1
+STU073,EX018,Conditional Statements,7,5,0,0.22,0.104,Incorrect Condition,0
+STU006,EX005,Strings,1,4,0,0.28,0.935,Incorrect Output,0
+STU018,EX025,Loops,3,1,1,0.6,0.98,Syntax Error,0
+STU027,EX012,Strings,9,1,0,0.83,0.087,No Error,1
+STU060,EX030,Variables,10,3,0,0.85,0.196,No Error,1
+STU079,EX006,Strings,7,4,0,0.54,0.436,Variable Misuse,0
+STU010,EX014,Functions,2,5,0,0.97,0.215,No Error,1
+STU024,EX012,Loops,5,0,0,0.95,0.065,No Error,1
+STU058,EX016,Loops,2,4,0,0.07,1.346,Loop Logic Error,0
+STU003,EX013,Conditional Statements,4,2,0,0.94,0.217,No Error,1
+STU097,EX025,Loops,9,4,0,0.84,0.192,No Error,1
+STU023,EX024,Functions,10,2,0,0.88,0.118,No Error,1
+STU081,EX014,Conditional Statements,9,3,0,0.97,0.242,No Error,1
+STU089,EX021,Variables,9,0,0,0.28,0.952,Variable Misuse,0
+STU066,EX024,Functions,8,3,0,0.87,0.187,No Error,1
+STU019,EX016,Functions,7,2,0,0.86,0.207,No Error,1
+STU093,EX005,Conditional Statements,2,3,0,0.16,1.392,Incorrect Condition,0
+STU084,EX026,Conditional Statements,9,0,0,0.96,0.181,No Error,1
+STU092,EX016,Variables,5,3,0,0.26,0.339,Incorrect Output,0
+STU021,EX017,Functions,4,5,1,0.24,1.074,Syntax Error,0
+STU029,EX005,Strings,9,2,0,0.99,0.212,No Error,1
+STU034,EX016,Loops,6,2,0,0.88,0.252,No Error,1
+STU018,EX010,Strings,8,0,0,0.98,0.025,No Error,1
+STU027,EX015,Functions,7,5,0,0.82,0.124,No Error,1
+STU014,EX022,Loops,7,0,0,0.43,0.36,Loop Logic Error,0
+STU049,EX016,Loops,10,1,0,0.96,0.191,No Error,1
+STU047,EX016,Lists,3,4,0,0.88,0.217,No Error,1
+STU033,EX024,Loops,8,1,0,0.59,0.148,Variable Misuse,0
+STU078,EX020,Lists,9,3,0,0.33,0.758,Loop Logic Error,0
+STU061,EX030,Variables,9,0,0,0.94,0.031,No Error,1
+STU014,EX024,Variables,4,1,0,0.91,0.143,No Error,1
+STU081,EX010,Strings,8,5,0,0.62,0.357,Variable Misuse,0
+STU026,EX017,Conditional Statements,6,2,0,0.16,1.422,Incorrect Condition,0
+STU017,EX015,Variables,2,3,0,0.82,0.256,No Error,1
+STU012,EX019,Conditional Statements,4,2,0,0.86,0.227,No Error,1
+STU009,EX020,Strings,5,8,0,0.85,0.253,No Error,1
+STU059,EX001,Functions,10,5,0,0.86,0.17,No Error,1
+STU074,EX010,Variables,4,3,0,0.81,0.03,No Error,1
+STU092,EX009,Functions,1,3,0,0.87,0.071,No Error,1
+STU083,EX017,Lists,2,4,0,0.54,0.156,Loop Logic Error,0
+STU042,EX003,Conditional Statements,1,9,0,0.97,0.264,No Error,1
+STU001,EX007,Variables,4,2,0,0.88,0.091,No Error,1
+STU075,EX013,Strings,7,2,1,0.03,1.214,Syntax Error,0
+STU046,EX004,Functions,5,5,0,0.82,0.24,No Error,1
+STU019,EX024,Conditional Statements,9,2,0,0.87,0.012,No Error,1
+STU006,EX008,Conditional Statements,4,2,0,0.97,0.259,No Error,1
+STU094,EX003,Strings,7,6,0,0.98,0.143,No Error,1
+STU082,EX003,Conditional Statements,6,3,0,0.98,0.241,No Error,1
+STU034,EX014,Variables,5,2,0,0.99,0.178,No Error,1
+STU082,EX005,Conditional Statements,3,5,0,0.89,0.02,No Error,1
+STU098,EX005,Loops,7,6,0,0.1,0.348,Incorrect Condition,0
+STU044,EX016,Loops,1,3,0,0.83,0.013,No Error,1
+STU037,EX008,Functions,1,6,0,0.39,1.489,Incorrect Output,0
+STU094,EX023,Conditional Statements,3,5,1,0.66,0.874,Syntax Error,0
+STU096,EX011,Functions,9,4,0,0.89,0.262,No Error,1
+STU027,EX029,Conditional Statements,8,2,0,0.81,0.154,No Error,1
+STU087,EX005,Conditional Statements,3,1,0,0.02,0.732,Incorrect Condition,0
+STU089,EX002,Functions,1,3,0,0.55,0.423,Incorrect Output,0
+STU076,EX025,Loops,3,6,1,0.06,0.758,Syntax Error,0
+STU035,EX030,Strings,1,5,0,0.93,0.281,No Error,1
+STU078,EX030,Functions,4,3,0,0.83,0.281,No Error,1
+STU049,EX028,Conditional Statements,3,5,0,0.07,0.724,Incorrect Condition,0
+STU099,EX003,Variables,1,5,0,0.13,0.534,Incorrect Condition,0
+STU009,EX027,Conditional Statements,3,2,0,0.99,0.132,No Error,1
+STU029,EX024,Functions,1,6,0,0.64,1.31,Variable Misuse,0
+STU004,EX007,Functions,5,3,0,0.46,0.735,Incorrect Output,0
+STU073,EX027,Variables,10,3,0,0.82,0.176,No Error,1
+STU069,EX004,Strings,7,2,0,0.18,0.04,Incorrect Output,0
+STU065,EX025,Lists,7,0,0,0.99,0.15,No Error,1
+STU045,EX005,Conditional Statements,10,4,0,0.96,0.18,No Error,1
+STU077,EX024,Loops,10,0,0,0.88,0.05,No Error,1
+STU022,EX010,Lists,6,2,0,0.31,0.806,Loop Logic Error,0
+STU086,EX018,Functions,5,1,0,0.9,0.129,No Error,1
+STU077,EX017,Variables,8,2,0,0.93,0.078,No Error,1
+STU072,EX003,Variables,2,5,0,0.04,1.166,Incorrect Output,0
+STU031,EX029,Conditional Statements,9,4,0,0.5,0.738,Incorrect Condition,0
+STU027,EX014,Strings,2,5,0,0.48,0.246,Variable Misuse,0
+STU041,EX019,Conditional Statements,3,4,0,0.47,0.739,Incorrect Output,0
+STU001,EX018,Loops,9,0,0,0.05,0.956,Incorrect Output,0
+STU040,EX012,Variables,8,1,0,0.96,0.18,No Error,1
+STU100,EX009,Functions,4,6,0,0.94,0.179,No Error,1
+STU025,EX019,Strings,3,4,1,0.26,0.58,Syntax Error,0
+STU055,EX007,Variables,8,1,0,0.54,1.249,Variable Misuse,0
+STU013,EX027,Strings,5,2,0,0.39,0.149,Incorrect Condition,0
+STU083,EX011,Variables,5,0,0,0.22,1.339,Variable Misuse,0
+STU066,EX004,Strings,5,6,0,0.96,0.285,No Error,1
+STU032,EX015,Variables,7,5,0,0.88,0.077,No Error,1
+STU040,EX024,Variables,4,5,0,0.12,0.691,Loop Logic Error,0
+STU057,EX003,Functions,6,1,0,0.89,0.176,No Error,1
+STU026,EX020,Strings,10,0,0,0.84,0.176,No Error,1
+STU025,EX009,Conditional Statements,6,2,0,0.91,0.086,No Error,1
+STU006,EX021,Functions,6,1,0,0.68,0.426,Loop Logic Error,0
+STU004,EX011,Loops,6,6,0,0.95,0.028,No Error,1
+STU063,EX015,Strings,1,3,0,0.23,0.725,Variable Misuse,0
+STU067,EX002,Lists,1,4,0,0.16,0.263,Variable Misuse,0
+STU003,EX025,Lists,2,5,0,0.9,0.03,No Error,1
+STU032,EX025,Lists,6,5,0,1.0,0.252,No Error,1
+STU038,EX001,Lists,7,3,0,0.48,0.235,Variable Misuse,0
+STU088,EX028,Lists,2,6,0,0.98,0.195,No Error,1
+STU038,EX030,Variables,2,3,0,0.41,0.806,Variable Misuse,0
+STU015,EX024,Conditional Statements,9,0,0,0.89,0.178,No Error,1
+STU075,EX005,Lists,4,3,0,0.81,0.113,No Error,1
+STU026,EX015,Lists,3,2,0,0.86,0.032,No Error,1
+STU084,EX021,Loops,7,2,0,0.56,0.496,Incorrect Condition,0
+STU071,EX001,Conditional Statements,3,2,1,0.66,0.721,Syntax Error,0
+STU056,EX004,Lists,9,5,0,0.09,1.381,Incorrect Output,0
+STU092,EX002,Loops,2,4,0,0.32,0.166,Variable Misuse,0
+STU012,EX001,Variables,6,4,0,0.51,0.91,Variable Misuse,0
+STU039,EX003,Variables,4,2,0,0.95,0.245,No Error,1
+STU055,EX026,Lists,7,2,0,0.92,0.092,No Error,1
+STU097,EX028,Variables,10,3,0,0.86,0.102,No Error,1
+STU093,EX014,Lists,3,5,1,0.51,0.761,Syntax Error,0
+STU061,EX007,Lists,4,4,0,0.15,0.948,Variable Misuse,0
+STU027,EX026,Strings,1,8,0,0.21,0.375,Incorrect Output,0
+STU042,EX011,Conditional Statements,9,3,0,0.88,0.289,No Error,1
+STU046,EX010,Variables,1,5,0,0.68,0.319,Variable Misuse,0
+STU029,EX022,Strings,2,6,0,0.84,0.104,No Error,1
+STU086,EX002,Strings,9,2,1,0.56,0.476,Syntax Error,0
+STU018,EX028,Lists,10,3,0,0.4,1.213,Loop Logic Error,0
+STU011,EX018,Conditional Statements,10,0,0,0.82,0.08,No Error,1
+STU015,EX022,Strings,8,0,0,0.95,0.233,No Error,1
+STU023,EX001,Conditional Statements,4,1,0,0.43,1.36,Incorrect Output,0
+STU044,EX015,Lists,4,2,1,0.4,0.125,Syntax Error,0
+STU073,EX010,Variables,3,3,1,0.34,0.662,Syntax Error,0
+STU089,EX025,Functions,7,1,0,0.89,0.255,No Error,1
+STU060,EX021,Loops,9,1,0,1.0,0.249,No Error,1
+STU034,EX016,Functions,8,0,1,0.12,1.083,Syntax Error,0
+STU083,EX010,Strings,3,5,1,0.61,0.183,Syntax Error,0
+STU013,EX023,Variables,6,2,0,0.97,0.155,No Error,1
+STU062,EX027,Strings,5,2,0,0.11,0.339,Incorrect Output,0
+STU025,EX025,Variables,4,3,0,0.66,0.564,Incorrect Output,0
+STU073,EX024,Loops,6,7,0,0.54,0.764,Loop Logic Error,0
+STU087,EX009,Lists,4,2,1,0.18,0.928,Syntax Error,0
+STU082,EX007,Strings,9,4,0,0.89,0.286,No Error,1
+STU054,EX010,Strings,8,2,1,0.16,1.317,Syntax Error,0
+STU060,EX025,Loops,5,5,0,0.99,0.183,No Error,1
+STU069,EX015,Loops,1,5,0,0.26,0.607,Loop Logic Error,0
+STU079,EX023,Functions,10,3,0,0.84,0.181,No Error,1
+STU013,EX001,Lists,4,4,0,0.98,0.151,No Error,1
+STU052,EX012,Conditional Statements,3,3,0,0.09,0.056,Loop Logic Error,0
+STU089,EX016,Variables,8,1,0,0.99,0.247,No Error,1
+STU012,EX015,Loops,5,1,0,0.19,0.815,Loop Logic Error,0
+STU077,EX015,Loops,6,3,0,0.06,0.306,Loop Logic Error,0
+STU015,EX028,Functions,4,2,0,0.21,1.499,Incorrect Output,0
+STU041,EX016,Strings,7,1,0,0.99,0.249,No Error,1
+STU010,EX014,Conditional Statements,3,3,0,0.38,0.73,Incorrect Condition,0
+STU091,EX014,Variables,2,5,0,0.08,0.22,Variable Misuse,0
+STU084,EX025,Conditional Statements,3,7,0,0.86,0.197,No Error,1
+STU087,EX014,Variables,7,2,1,0.11,0.749,Syntax Error,0
+STU042,EX012,Conditional Statements,7,1,1,0.43,0.255,Syntax Error,0
+STU078,EX006,Strings,7,7,0,0.96,0.041,No Error,1
+STU031,EX025,Lists,6,8,0,0.96,0.249,No Error,1
+STU062,EX016,Lists,7,0,0,0.82,0.22,No Error,1
+STU033,EX008,Strings,2,5,0,0.54,1.229,Incorrect Output,0
+STU009,EX015,Conditional Statements,6,5,0,0.08,1.422,Incorrect Condition,0
+STU006,EX006,Lists,7,0,0,0.08,1.456,Variable Misuse,0
+STU090,EX017,Variables,5,2,0,0.15,0.984,Incorrect Output,0
+STU076,EX012,Strings,6,6,0,0.93,0.133,No Error,1
+STU005,EX029,Lists,4,4,1,0.21,0.998,Syntax Error,0
+STU066,EX026,Conditional Statements,10,1,0,0.84,0.2,No Error,1
+STU019,EX027,Lists,1,8,0,0.02,1.394,Incorrect Output,0
+STU057,EX006,Strings,4,1,0,0.89,0.154,No Error,1
+STU068,EX016,Functions,5,1,0,0.9,0.19,No Error,1
+STU029,EX023,Loops,5,2,0,0.86,0.07,No Error,1
+STU027,EX008,Variables,5,3,0,0.88,0.188,No Error,1
+STU003,EX028,Strings,10,3,0,0.88,0.108,No Error,1
+STU014,EX026,Loops,10,0,0,0.91,0.174,No Error,1
+STU085,EX027,Functions,2,1,1,0.05,0.172,Syntax Error,0
+STU017,EX027,Lists,4,1,0,0.39,0.884,Incorrect Condition,0
+STU087,EX026,Loops,5,4,0,0.11,0.676,Incorrect Condition,0
+STU004,EX029,Conditional Statements,8,3,0,0.97,0.127,No Error,1
+STU067,EX003,Functions,3,3,0,0.52,0.112,Variable Misuse,0
+STU090,EX024,Lists,10,2,0,0.3,1.219,Incorrect Condition,0
+STU087,EX028,Conditional Statements,6,3,0,0.34,1.201,Incorrect Condition,0
+STU058,EX025,Functions,4,1,0,0.13,0.514,Incorrect Condition,0
+STU050,EX006,Strings,8,4,0,0.99,0.14,No Error,1
+STU048,EX008,Strings,6,4,0,0.99,0.238,No Error,1
+STU032,EX002,Loops,8,2,0,0.98,0.232,No Error,1
+STU026,EX016,Lists,2,6,0,0.88,0.218,No Error,1
+STU095,EX029,Conditional Statements,5,2,0,0.84,0.215,No Error,1
+STU020,EX021,Conditional Statements,7,3,0,0.05,1.427,Incorrect Condition,0
+STU016,EX022,Functions,4,1,1,0.32,1.013,Syntax Error,0
+STU012,EX027,Variables,7,3,0,0.8,0.232,No Error,1
+STU025,EX024,Variables,5,1,0,0.17,0.179,Variable Misuse,0
+STU042,EX013,Strings,6,4,0,0.87,0.097,No Error,1
+STU025,EX020,Lists,2,4,0,0.67,0.223,Incorrect Output,0
+STU062,EX028,Loops,6,5,0,0.96,0.257,No Error,1
+STU071,EX007,Functions,4,5,0,0.56,0.827,Incorrect Output,0
+STU027,EX012,Functions,3,2,1,0.22,1.482,Syntax Error,0
+STU017,EX005,Conditional Statements,5,3,0,0.97,0.052,No Error,1
+STU067,EX025,Loops,2,5,0,0.83,0.299,No Error,1
+STU030,EX030,Lists,4,1,0,0.6,0.066,Incorrect Condition,0
+STU090,EX008,Functions,6,5,0,0.91,0.225,No Error,1
+STU043,EX012,Conditional Statements,3,3,0,0.37,1.467,Incorrect Condition,0
+STU021,EX013,Loops,9,5,0,0.99,0.1,No Error,1
+STU065,EX017,Functions,10,3,0,0.95,0.012,No Error,1
+STU007,EX011,Strings,6,2,0,0.9,0.194,No Error,1
+STU033,EX007,Functions,7,5,0,0.83,0.08,No Error,1
+STU043,EX020,Lists,1,3,1,0.61,0.316,Syntax Error,0
+STU045,EX017,Conditional Statements,6,0,0,0.98,0.27,No Error,1
+STU083,EX012,Loops,7,4,1,0.36,0.318,Syntax Error,0
+STU097,EX015,Variables,7,0,0,0.92,0.052,No Error,1
+STU077,EX004,Variables,5,7,0,0.88,0.293,No Error,1
+STU016,EX029,Loops,5,0,0,0.85,0.017,No Error,1
+STU025,EX028,Strings,7,0,0,0.34,0.193,Loop Logic Error,0
+STU016,EX005,Loops,2,3,0,0.08,1.445,Incorrect Output,0
+STU048,EX010,Variables,4,4,0,0.28,0.161,Variable Misuse,0
+STU038,EX020,Variables,4,4,0,0.93,0.058,No Error,1
+STU021,EX021,Loops,6,4,0,0.48,0.088,Loop Logic Error,0
+STU054,EX005,Loops,5,4,0,0.96,0.236,No Error,1
+STU007,EX023,Strings,2,6,0,0.93,0.105,No Error,1
+STU065,EX030,Conditional Statements,2,3,0,0.12,1.032,Variable Misuse,0
+STU075,EX030,Loops,5,1,0,0.06,0.606,Incorrect Condition,0
+STU058,EX017,Functions,10,3,0,0.92,0.267,No Error,1
+STU045,EX002,Functions,5,5,1,0.17,0.743,Syntax Error,0
+STU079,EX015,Functions,8,2,0,0.48,1.356,Incorrect Condition,0
+STU087,EX016,Loops,9,4,0,0.89,0.148,No Error,1
+STU055,EX020,Strings,6,4,0,0.82,0.161,No Error,1
+STU066,EX013,Lists,4,3,0,0.4,1.164,Variable Misuse,0
+STU028,EX018,Loops,5,6,0,0.87,0.25,No Error,1
+STU048,EX024,Loops,9,7,0,0.99,0.051,No Error,1
+STU085,EX013,Loops,9,3,0,0.86,0.121,No Error,1
+STU068,EX017,Functions,7,3,1,0.33,0.816,Syntax Error,0
+STU022,EX017,Conditional Statements,9,3,0,0.99,0.216,No Error,1
+STU052,EX023,Conditional Statements,2,4,0,0.89,0.276,No Error,1
+STU060,EX023,Strings,1,4,0,0.58,1.368,Incorrect Output,0
+STU020,EX004,Loops,2,3,0,0.5,0.632,Loop Logic Error,0
+STU053,EX012,Loops,9,1,0,0.29,1.331,Incorrect Condition,0
+STU073,EX011,Strings,1,6,0,0.08,0.737,Incorrect Condition,0
+STU065,EX030,Functions,3,3,0,0.8,0.162,No Error,1
+STU002,EX011,Conditional Statements,10,2,0,0.37,0.011,Loop Logic Error,0
+STU019,EX020,Loops,5,3,0,0.81,0.056,No Error,1
+STU057,EX017,Strings,1,1,0,0.67,1.311,Incorrect Output,0
+STU079,EX015,Strings,2,4,0,0.81,0.279,No Error,1
+STU069,EX021,Loops,8,4,0,0.84,0.177,No Error,1
+STU047,EX016,Conditional Statements,5,6,1,0.2,1.215,Syntax Error,0
+STU090,EX026,Strings,8,3,0,0.81,0.099,No Error,1
+STU085,EX013,Functions,10,1,0,0.33,0.29,Variable Misuse,0
+STU026,EX022,Variables,8,1,0,0.99,0.055,No Error,1
+STU086,EX006,Conditional Statements,3,2,0,0.42,0.644,Incorrect Condition,0
+STU043,EX002,Conditional Statements,5,4,0,0.81,0.086,No Error,1
+STU021,EX012,Strings,5,4,0,0.37,0.247,Variable Misuse,0
+STU033,EX027,Functions,1,4,0,0.9,0.094,No Error,1
+STU097,EX023,Lists,6,3,0,0.85,0.209,No Error,1
+STU068,EX011,Loops,10,3,0,0.85,0.288,No Error,1
+STU045,EX022,Strings,4,2,0,0.67,0.012,Incorrect Output,0
+STU031,EX018,Lists,8,0,1,0.63,0.311,Syntax Error,0
+STU086,EX003,Conditional Statements,2,3,0,0.31,1.485,Incorrect Output,0
+STU052,EX005,Loops,7,1,0,0.94,0.147,No Error,1
+STU031,EX019,Lists,10,5,0,0.83,0.13,No Error,1
+STU067,EX019,Conditional Statements,8,0,0,0.32,0.696,Incorrect Output,0
+STU008,EX016,Functions,9,0,0,0.34,0.417,Incorrect Output,0
+STU082,EX001,Functions,5,4,0,0.47,0.837,Variable Misuse,0
+STU036,EX003,Lists,6,5,0,0.94,0.202,No Error,1
+STU022,EX015,Lists,5,4,0,0.47,0.364,Variable Misuse,0
+STU044,EX024,Strings,8,5,0,0.86,0.131,No Error,1
+STU049,EX011,Functions,7,2,0,0.3,0.09,Incorrect Output,0
+STU055,EX002,Variables,4,6,0,0.82,0.252,No Error,1
+STU083,EX024,Variables,1,4,0,0.13,1.386,Variable Misuse,0
+STU059,EX007,Loops,1,6,0,0.39,0.334,Loop Logic Error,0
+STU007,EX028,Conditional Statements,9,2,0,0.94,0.269,No Error,1
+STU028,EX011,Conditional Statements,10,1,1,0.08,0.038,Syntax Error,0
+STU088,EX007,Loops,7,3,0,0.92,0.269,No Error,1
+STU092,EX015,Lists,6,4,0,0.1,1.393,Variable Misuse,0
+STU010,EX010,Strings,8,2,0,0.31,0.036,Variable Misuse,0
+STU060,EX017,Strings,3,5,0,0.13,0.269,Incorrect Condition,0
+STU074,EX017,Variables,5,8,1,0.37,0.292,Syntax Error,0
+STU010,EX006,Functions,5,3,0,0.81,0.257,No Error,1
+STU077,EX024,Loops,1,5,0,0.18,0.73,Incorrect Condition,0
+STU064,EX007,Variables,10,3,0,0.96,0.285,No Error,1
+STU024,EX027,Loops,2,5,0,0.24,0.968,Incorrect Condition,0
+STU083,EX002,Variables,4,3,0,0.06,0.706,Incorrect Output,0
+STU042,EX002,Strings,2,4,0,0.93,0.198,No Error,1
+STU059,EX018,Lists,8,0,0,0.97,0.225,No Error,1
+STU031,EX023,Lists,5,4,0,0.69,0.567,Variable Misuse,0
+STU005,EX010,Strings,9,4,0,0.83,0.047,No Error,1
+STU028,EX012,Conditional Statements,2,5,0,0.96,0.108,No Error,1
+STU030,EX006,Conditional Statements,5,0,0,0.97,0.239,No Error,1
+STU022,EX005,Variables,10,2,0,0.19,1.359,Loop Logic Error,0
+STU055,EX011,Loops,9,2,0,0.84,0.281,No Error,1
+STU008,EX028,Lists,8,3,0,0.87,0.229,No Error,1
+STU081,EX024,Loops,7,3,0,0.43,0.75,Variable Misuse,0
+STU066,EX014,Variables,1,2,0,0.29,0.169,Incorrect Condition,0
+STU088,EX024,Variables,6,3,0,0.48,0.534,Variable Misuse,0
+STU021,EX030,Strings,7,2,0,0.85,0.257,No Error,1
+STU045,EX027,Functions,7,2,0,0.82,0.049,No Error,1
+STU038,EX030,Strings,3,3,0,0.96,0.182,No Error,1
+STU031,EX030,Conditional Statements,7,2,0,0.37,0.549,Incorrect Output,0
+STU063,EX026,Variables,10,1,0,0.93,0.16,No Error,1
+STU018,EX009,Variables,1,0,0,0.92,0.029,No Error,1
+STU035,EX029,Functions,8,4,0,1.0,0.292,No Error,1
+STU069,EX017,Variables,4,1,1,0.7,1.276,Syntax Error,0
+STU094,EX017,Conditional Statements,4,3,0,0.22,1.348,Incorrect Output,0
+STU084,EX025,Lists,1,2,0,0.23,0.305,Variable Misuse,0
+STU052,EX006,Loops,5,5,0,0.2,0.586,Incorrect Output,0
+STU051,EX025,Strings,9,0,0,0.96,0.225,No Error,1
+STU035,EX023,Loops,5,4,0,0.88,0.174,No Error,1
+STU022,EX007,Strings,1,5,0,0.01,0.47,Incorrect Output,0
+STU098,EX005,Strings,1,5,0,0.37,0.534,Incorrect Output,0
+STU071,EX020,Conditional Statements,8,1,0,0.43,0.415,Incorrect Condition,0
+STU011,EX002,Conditional Statements,3,3,0,0.09,0.078,Incorrect Condition,0
+STU051,EX026,Variables,1,3,0,0.32,1.311,Variable Misuse,0
+STU083,EX008,Lists,8,4,0,0.94,0.092,No Error,1
+STU011,EX016,Strings,1,5,0,0.13,0.332,Incorrect Output,0
+STU059,EX004,Conditional Statements,7,4,0,0.02,1.223,Incorrect Condition,0
+STU034,EX023,Variables,1,5,0,0.53,1.373,Incorrect Output,0
+STU040,EX010,Loops,10,1,0,0.83,0.294,No Error,1
+STU059,EX022,Lists,5,2,0,0.02,0.227,Incorrect Output,0
+STU096,EX030,Conditional Statements,3,3,1,0.41,0.341,Syntax Error,0
+STU033,EX025,Strings,5,2,0,0.1,0.571,Variable Misuse,0
+STU003,EX014,Lists,3,4,0,0.19,1.31,Variable Misuse,0
+STU061,EX006,Lists,3,3,0,0.9,0.285,No Error,1
+STU049,EX012,Strings,1,3,0,0.84,0.211,No Error,1
+STU072,EX025,Lists,3,2,0,0.58,0.192,Incorrect Output,0
+STU091,EX021,Conditional Statements,7,5,0,0.9,0.286,No Error,1
+STU028,EX020,Lists,4,6,0,0.36,0.499,Variable Misuse,0
+STU044,EX005,Loops,2,1,0,0.5,0.259,Loop Logic Error,0
+STU053,EX022,Conditional Statements,8,4,0,0.39,1.37,Incorrect Output,0
+STU059,EX023,Lists,2,2,0,0.64,0.208,Incorrect Output,0
+STU044,EX009,Strings,3,4,0,0.81,0.244,No Error,1
+STU089,EX021,Variables,5,6,0,0.63,0.232,Loop Logic Error,0
+STU068,EX022,Lists,4,4,0,0.08,0.127,Loop Logic Error,0
+STU048,EX030,Loops,2,6,0,0.83,0.218,No Error,1
+STU004,EX030,Lists,9,2,0,0.92,0.162,No Error,1
+STU034,EX014,Strings,4,4,0,0.64,0.562,Variable Misuse,0
+STU056,EX006,Functions,2,5,0,0.89,0.039,No Error,1
+STU003,EX029,Functions,1,9,0,0.86,0.027,No Error,1
+STU018,EX011,Lists,4,4,0,0.89,0.076,No Error,1
+STU035,EX021,Conditional Statements,6,2,0,0.06,1.488,Incorrect Condition,0
+STU012,EX015,Loops,8,5,0,0.12,0.783,Loop Logic Error,0
+STU032,EX024,Variables,3,6,0,0.83,0.196,No Error,1
+STU089,EX025,Variables,10,0,0,0.24,1.263,Variable Misuse,0
+STU007,EX019,Functions,8,0,0,0.32,1.33,Incorrect Output,0
+STU071,EX008,Functions,5,5,0,0.45,1.244,Incorrect Condition,0
+STU009,EX006,Strings,7,3,0,0.5,1.169,Incorrect Output,0
+STU061,EX013,Variables,7,6,0,0.16,0.395,Variable Misuse,0
+STU098,EX003,Conditional Statements,8,3,0,0.94,0.237,No Error,1
+STU067,EX027,Lists,4,5,0,0.64,0.529,Loop Logic Error,0
+STU025,EX012,Lists,1,6,0,0.82,0.195,No Error,1
+STU026,EX019,Strings,4,5,0,0.97,0.17,No Error,1
+STU026,EX005,Conditional Statements,1,4,0,0.33,1.475,Incorrect Condition,0
+STU068,EX023,Loops,8,5,0,0.12,1.465,Loop Logic Error,0
+STU096,EX029,Functions,8,5,0,0.68,0.642,Incorrect Condition,0
+STU036,EX028,Variables,10,1,0,0.92,0.237,No Error,1
+STU043,EX026,Lists,2,9,0,0.45,1.178,Incorrect Condition,0
+STU037,EX007,Strings,6,2,0,0.86,0.285,No Error,1
+STU036,EX020,Variables,4,6,0,0.82,0.185,No Error,1
+STU044,EX026,Loops,9,2,0,0.98,0.062,No Error,1
+STU010,EX004,Lists,10,3,0,0.19,0.385,Loop Logic Error,0
+STU039,EX016,Lists,10,0,0,1.0,0.171,No Error,1
+STU035,EX006,Variables,10,1,0,0.91,0.201,No Error,1
+STU065,EX019,Functions,1,2,0,0.29,0.223,Variable Misuse,0
+STU092,EX019,Lists,3,5,0,0.98,0.219,No Error,1
+STU079,EX018,Functions,4,4,0,0.66,0.862,Incorrect Output,0
+STU003,EX026,Strings,8,0,0,0.89,0.238,No Error,1
+STU060,EX011,Lists,8,1,0,0.84,0.072,No Error,1
+STU076,EX001,Loops,10,5,1,0.08,0.681,Syntax Error,0
+STU083,EX022,Conditional Statements,9,5,0,0.83,0.147,No Error,1
+STU036,EX015,Strings,8,4,0,0.82,0.283,No Error,1
+STU038,EX023,Variables,6,2,0,0.95,0.172,No Error,1
+STU086,EX016,Loops,8,3,0,0.98,0.036,No Error,1
+STU014,EX013,Functions,2,7,1,0.49,1.219,Syntax Error,0
+STU005,EX009,Variables,7,5,0,0.95,0.195,No Error,1
+STU061,EX021,Strings,5,2,0,0.68,1.165,Incorrect Output,0
+STU003,EX022,Functions,9,3,0,0.89,0.221,No Error,1
+STU007,EX019,Loops,3,3,0,0.52,0.269,Variable Misuse,0
+STU033,EX019,Conditional Statements,9,4,0,0.81,0.243,No Error,1
+STU030,EX016,Lists,2,3,0,0.93,0.265,No Error,1
+STU079,EX029,Lists,5,1,0,0.89,0.265,No Error,1
+STU037,EX009,Lists,2,4,0,0.12,0.411,Variable Misuse,0
+STU070,EX014,Functions,3,3,0,0.92,0.29,No Error,1
+STU064,EX006,Strings,2,7,0,0.18,0.821,Incorrect Output,0
+STU039,EX020,Variables,7,1,0,0.49,0.453,Incorrect Output,0
+STU061,EX003,Variables,6,3,0,0.89,0.106,No Error,1
+STU051,EX028,Variables,7,1,0,0.6,1.03,Variable Misuse,0
+STU027,EX018,Functions,10,1,0,0.91,0.066,No Error,1
+STU041,EX025,Loops,1,0,0,0.57,0.212,Loop Logic Error,0
+STU006,EX024,Lists,8,6,0,0.82,0.136,No Error,1
+STU052,EX015,Strings,9,5,0,0.87,0.083,No Error,1
+STU017,EX012,Functions,1,8,1,0.38,1.467,Syntax Error,0
+STU088,EX003,Conditional Statements,5,0,0,0.8,0.012,No Error,1
+STU058,EX030,Lists,6,4,1,0.37,0.082,Syntax Error,0
+STU049,EX018,Conditional Statements,8,0,0,0.91,0.278,No Error,1
+STU049,EX014,Loops,2,1,0,0.03,0.663,Incorrect Output,0
+STU059,EX009,Variables,6,7,1,0.11,0.437,Syntax Error,0
+STU056,EX029,Variables,3,5,0,0.08,1.278,Incorrect Output,0
+STU071,EX027,Loops,2,4,0,0.21,0.01,Loop Logic Error,0
+STU057,EX010,Lists,8,3,0,0.92,0.19,No Error,1
+STU099,EX004,Loops,8,3,0,0.03,0.499,Incorrect Output,0
+STU051,EX010,Lists,3,1,0,0.91,0.039,No Error,1
+STU070,EX021,Loops,2,2,0,0.2,0.409,Incorrect Condition,0
+STU059,EX018,Strings,3,5,0,0.5,1.144,Incorrect Output,0
+STU012,EX009,Strings,3,1,0,0.84,0.053,No Error,1
+STU079,EX024,Lists,3,2,0,0.88,0.022,No Error,1
+STU050,EX003,Conditional Statements,10,1,0,0.98,0.275,No Error,1
+STU040,EX019,Strings,9,1,0,0.57,1.21,Incorrect Output,0
+STU074,EX023,Functions,3,4,0,0.29,0.56,Variable Misuse,0
+STU032,EX013,Functions,10,4,0,0.03,1.113,Variable Misuse,0
+STU014,EX021,Loops,8,0,0,0.89,0.039,No Error,1
+STU045,EX007,Conditional Statements,2,6,0,0.35,1.161,Incorrect Condition,0
+STU051,EX019,Lists,4,2,0,0.85,0.2,No Error,1
+STU017,EX015,Functions,9,0,1,0.61,0.787,Syntax Error,0
+STU073,EX024,Lists,4,2,0,0.84,0.111,No Error,1
+STU091,EX014,Functions,6,4,0,0.93,0.162,No Error,1
+STU032,EX007,Variables,1,1,0,0.85,0.011,No Error,1
+STU080,EX028,Strings,9,0,0,0.93,0.021,No Error,1
+STU089,EX006,Functions,2,1,0,0.18,1.221,Loop Logic Error,0
+STU068,EX009,Lists,6,1,0,1.0,0.276,No Error,1
+STU058,EX026,Strings,1,3,0,0.87,0.194,No Error,1
+STU019,EX011,Strings,2,3,0,0.94,0.1,No Error,1
+STU004,EX026,Variables,4,3,0,0.88,0.279,No Error,1
+STU004,EX028,Variables,7,5,0,0.81,0.157,No Error,1
+STU048,EX001,Lists,1,3,1,0.15,0.794,Syntax Error,0
+STU046,EX001,Functions,4,3,0,0.18,1.486,Variable Misuse,0
+STU039,EX019,Functions,6,5,0,0.42,0.921,Variable Misuse,0
+STU088,EX025,Functions,4,2,0,0.17,1.011,Variable Misuse,0
+STU033,EX019,Loops,3,8,0,0.19,0.84,Loop Logic Error,0
+STU047,EX029,Loops,1,3,0,0.45,0.753,Variable Misuse,0
+STU040,EX010,Functions,3,0,0,0.81,0.231,No Error,1
+STU013,EX015,Functions,2,3,0,0.8,0.262,No Error,1

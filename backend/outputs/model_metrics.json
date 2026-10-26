@@ -1,0 +1,129 @@
+{
+    "dataset_type": "synthetic",
+    "total_records": 1000,
+    "training_records": 750,
+    "testing_records": 250,
+    "training_students": 75,
+    "testing_students": 25,
+    "student_overlap": 0,
+    "accuracy": 0.756,
+    "classification_report": {
+        "Incorrect Condition": {
+            "precision": 0.36363636363636365,
+            "recall": 0.19047619047619047,
+            "f1-score": 0.25,
+            "support": 21.0
+        },
+        "Incorrect Output": {
+            "precision": 0.6785714285714286,
+            "recall": 0.40425531914893614,
+            "f1-score": 0.5066666666666667,
+            "support": 47.0
+        },
+        "Loop Logic Error": {
+            "precision": 0.3,
+            "recall": 0.4,
+            "f1-score": 0.34285714285714286,
+            "support": 15.0
+        },
+        "No Error": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 126.0
+        },
+        "Syntax Error": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 22.0
+        },
+        "Variable Misuse": {
+            "precision": 0.27906976744186046,
+            "recall": 0.631578947368421,
+            "f1-score": 0.3870967741935484,
+            "support": 19.0
+        },
+        "accuracy": 0.756,
+        "macro avg": {
+            "precision": 0.6035462599416087,
+            "recall": 0.6043850761655913,
+            "f1-score": 0.5811034306195596,
+            "support": 250.0
+        },
+        "weighted avg": {
+            "precision": 0.7893261854424645,
+            "recall": 0.756,
+            "f1-score": 0.7582441167434715,
+            "support": 250.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            4,
+            5,
+            6,
+            0,
+            0,
+            6
+        ],
+        [
+            5,
+            19,
+            4,
+            0,
+            0,
+            19
+        ],
+        [
+            2,
+            1,
+            6,
+            0,
+            0,
+            6
+        ],
+        [
+            0,
+            0,
+            0,
+            126,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            22,
+            0
+        ],
+        [
+            0,
+            3,
+            4,
+            0,
+            0,
+            12
+        ]
+    ],
+    "class_labels": [
+        "Incorrect Condition",
+        "Incorrect Output",
+        "Loop Logic Error",
+        "No Error",
+        "Syntax Error",
+        "Variable Misuse"
+    ],
+    "features": [
+        "topic",
+        "attempt_number",
+        "previous_errors",
+        "syntax_error",
+        "test_pass_rate",
+        "execution_time"
+    ],
+    "target": "error_type",
+    "model": "DecisionTreeClassifier"
+}

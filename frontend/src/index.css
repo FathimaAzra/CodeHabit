@@ -1,0 +1,34 @@
+:root {
+font-family: 'DM Sans', sans-serif;
+color: #e9edf5;
+background: #0c1018;
+font-synthesis: none;
+text-rendering: optimizeLegibility;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+html {
+min-width: 320px;
+min-height: 100%;
+background: #0c1018;
+}
+
+body {
+margin: 0;
+min-width: 320px;
+min-height: 100vh;
+}
+
+#root {
+min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+  }
+
+::selection {
+background: #b9f27c;
+color: #172314;
+}
